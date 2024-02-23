@@ -5,4 +5,4 @@ Ejecutar los scripts siguiendo el orden los archivos:
 3 ProcedimientoEliminar
 4 Ventas
 
-Luego, abrir la solución que está en la carpeta comprimida. Asegurarse de reemplazar el servidor DESKTOP-0NR9HGE\SQLEXPRESS en toda la solución por el que utilice, con Ctrl+F
+Luego, abrir la solución de Visual Studio que está en la carpeta comprimida. Asegurarse de reemplazar el servidor DESKTOP-0NR9HGE\SQLEXPRESS en toda la solución por el que utilice, con Ctrl+F
